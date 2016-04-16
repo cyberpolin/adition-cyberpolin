@@ -1,6 +1,6 @@
 {
   "name": "adition-cyberpolin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "adition node module",
   "main": "adition.js",
   "scripts": {
