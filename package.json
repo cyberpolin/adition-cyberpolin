@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cyberpolin/adition-cyberpolin/issues"
   },
-  "homepage": "https://github.com/cyberpolin/adition-cyberpolin#readme"
+  "homepage": "https://github.com/cyberpolin/adition-cyberpolin#readme",
+  "devDependencies": {
+    "tap": "^5.7.1"
+  }
 }
