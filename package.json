@@ -1,0 +1,19 @@
+{
+  "name": "adition-cyberpolin",
+  "version": "0.0.1",
+  "description": "adition node module",
+  "main": "adition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberpolin/adition-cyberpolin.git"
+  },
+  "author": "Carlos Gonzalez (@cyberpolin) cyberpolin@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyberpolin/adition-cyberpolin/issues"
+  },
+  "homepage": "https://github.com/cyberpolin/adition-cyberpolin#readme"
+}
